@@ -23,4 +23,4 @@ For making an issue remember:
 
 > Here you can see all changes made by the staff, whitelist, blacklist etc. (not full description tho)
 
- - v0.0.1 -> [Click me](workinprogress)
+ - v0.0.1 -> [Click me](https://github.com/xAlcahest/AdKillerDNS/blob/main/Clv001.md)
