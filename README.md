@@ -10,6 +10,10 @@ Repository for AdKillerDNS Issue Tracker
 | Open Source | ✅ |
 | Custom AdList | W.I.P (60%) |
 
+# Social links
+
+Telegram: [Click me!](https://t.me/joinchat/TVgXy6UNjuD3OgDh)
+
 # How to make a issue
 
 For making an issue remember:
