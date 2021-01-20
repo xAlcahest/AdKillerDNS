@@ -19,3 +19,8 @@ For making an issue remember:
 * Always add the tags to your issue
 
 
+# Changelog
+
+> Here you can see all changes made by the staff, whitelist, blacklist etc. (not full description tho)
+
+ - v0.0.1 -> [Click me](workinprogress)
