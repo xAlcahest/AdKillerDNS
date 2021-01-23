@@ -12,7 +12,8 @@ Repository for AdKillerDNS Issue Tracker
 
 # Social links
 
-Telegram: [Click me!](https://t.me/joinchat/TVgXy6UNjuD3OgDh)
+Telegram News Channel: [Click!](https://t.me/akdnshub_official)
+Telegram Chat Group: [Click!](https://t.me/akdnschat_official)
 
 # How to make a issue
 
