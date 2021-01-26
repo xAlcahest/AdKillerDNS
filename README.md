@@ -28,5 +28,4 @@ For making an issue remember:
 
 > Here you can see all changes made by the staff, whitelist, blacklist etc. (not full description tho)
 
- - v0.0.1 -> [Click me](https://github.com/xAlcahest/AdKillerDNS/blob/main/Changelog/Clv001.md)
- - v0.0.2 -> [Click me](https://github.com/xAlcahest/AdKillerDNS/blob/main/Changelog/Clv001.md)
+ - Changelog Link -> [Click me](https://github.com/xAlcahest/AdKillerDNS/issues/2#issue-792913029)
