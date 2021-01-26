@@ -1,4 +1,4 @@
-# AdKillerDNS Issue Tracker
+# AdKillerDNS Issue & Changelog Tracker
 Repository for AdKillerDNS Issue Tracker
 
 > We remember that AdKillerDNS is still in BETA so if you find some issues report them in the Issues Sections of GitHub
