@@ -1,2 +1,2 @@
-@@||*$generichide
-##script:inject(bab-defuser.js)
+@@||*.*^$generichide
+*.*##script:inject(bab-defuser.js)
